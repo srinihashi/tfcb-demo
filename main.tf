@@ -8,6 +8,6 @@ instance_type   = "t2.micro"
 #vpc_security_group_ids = ["sg-b1fe76ca"]
    tags = {
        Owner = "Srini"
-       Created-via = "TFC-tfcb-agent"
+       Created-via = "TFC:tfcb-agent"
     }
 }
